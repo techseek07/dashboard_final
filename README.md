@@ -83,14 +83,6 @@ text
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## 📄 License
-
-MIT License
-
-## 👤 Author
-
-Your Name - [GitHub Profile](https://github.com/YOUR_USERNAME)
-
 ## 🐛 Troubleshooting
 
 **ModuleNotFoundError for plotly?**
